@@ -1,0 +1,1 @@
+# custom-entities-synonym-mapper
