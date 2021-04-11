@@ -1,0 +1,1 @@
+from azir.azir_entity_synonym_mapper import AzirEntitySynonymMapper
